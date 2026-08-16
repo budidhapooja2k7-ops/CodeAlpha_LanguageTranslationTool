@@ -27,3 +27,8 @@ A simple web-based language translation tool built using **Python, Flask, and De
 
 ```bash
 pip install -r requirements.txt
+
+
+## 🌐 Live Demo
+
+[Open the Language Translation Tool](https://codealpha-languagetranslationtool-1-7i5d.onrender.com)
